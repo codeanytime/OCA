@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ÅÁòıÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "timestamp".(îôÃ¥şÿÿÿÿ
+I
+java:S1481".Remove this unused "timestamp" local variable.(îôÃ¥şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İØä„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÁúÎ
+n
+java:S1128"LRemove this unused import 'java.time.temporal.ChronoField.SECOND_OF_MINUTE'.(ÕÄì—øÿÿÿÿ8—î¢Ã¡0

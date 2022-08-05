@@ -1,0 +1,17 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(â–‡ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°£ØÕúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–Ü²Ûúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(İŞój
+V	java:S125"<This block of commented-out lines of code should be removed.(æ•ª‡øÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(ƒ§åÉûÿÿÿÿ
+h
+java:S62046"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Óä²Ô
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶

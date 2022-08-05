@@ -1,0 +1,22 @@
+
+?
+java:S2440"$Remove this instantiation of "Rope".(ãşÕòùÿÿÿÿ
+?
+java:S2440	"$Remove this instantiation of "Rope".(ÒÀ¸Ÿùÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(¦ãÈ·
+N
+java:S1854"8Remove this useless assignment to local variable "bai1".(‹åÚ½
+J
+java:S2209"5Change this instance-reference to a static reference.(ü­v
+P
+java:S2209"5Change this instance-reference to a static reference.(°°²Úûÿÿÿÿ
+?
+java:S1481")Remove this unused "bai1" local variable.(‹åÚ½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”şÈ¢ùÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(”şÈ¢ùÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

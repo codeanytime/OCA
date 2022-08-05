@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ÅÁòıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¤‚üÿÿÿÿ
+H
+java:S2201"-The return value of "minusDays" must be used.(µ„º’şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª‘È‘üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬˜ı¶
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(‹ËœĞúÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(©ÛÆ¯
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Æßæ†
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(“ı©
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ì„Àªşÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ

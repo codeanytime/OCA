@@ -1,0 +1,27 @@
+
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷é‚­ýÿÿÿÿ
+W
+java:S4973,"<Strings and Boxed types should be compared using "equals()".(‚¬•–ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ÅÁòýÿÿÿÿ
+—
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßó
+V	java:S125"<This block of commented-out lines of code should be removed.(´äÞÁþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ý‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(žÔÓ‡ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶µ×Ëúÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+;
+java:S2129&" Remove this "String" constructor(÷é‚­ýÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(•¦–ñ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(üã¸è
+l
+java:S2159)"VRemove this call to "equals"; comparisons between unrelated types always return false.(üã¸è
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(‚¬•–ÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ö¸„äüÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ãîáåÿÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(­ËÖþÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(óè™Œÿÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ãÉÛÒ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(µ„åÝ
+D
+java:S1144<".Remove this unused private "setNumber" method.(•ßó

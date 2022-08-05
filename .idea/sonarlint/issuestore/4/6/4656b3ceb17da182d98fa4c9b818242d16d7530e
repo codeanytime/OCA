@@ -1,0 +1,15 @@
+
+Y
+java:S1226">Introduce a new variable instead of reusing the parameter "s".(®ÖŠÒøÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "result".(ÅüÎ´
+V	java:S125"<This block of commented-out lines of code should be removed.(Ã¸œˆşÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÅüÎ´
+A
+java:S1481"+Remove this unused "result" local variable.(ÅüÎ´
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Úì»Ğøÿÿÿÿ8Õ§Ó¥0
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8ƒÕšŸ¥0
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ƒÕšŸ¥0

@@ -1,0 +1,18 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Šã
+[
+java:S1226">Introduce a new variable instead of reusing the parameter "s".(žÔ½Î8Çˆ±å 0
+o	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘‡ê’
+t	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÊÓÂúÿÿÿÿ
+X
+java:S1854"6Remove this useless assignment to local variable "s2".(¬ñ€Øýÿÿÿÿ8ññªå 0
+Q
+java:S1854"6Remove this useless assignment to local variable "s1".(Ü›Ç¸þÿÿÿÿ
+B
+java:S1481"'Remove this unused "s1" local variable.(Ü›Ç¸þÿÿÿÿ
+I
+java:S1481"'Remove this unused "s2" local variable.(¬ñ€Øýÿÿÿÿ8òñªå 0
+@
+java:S1068
+"%Remove this unused "b" private field.(ÛÊÓÂúÿÿÿÿ

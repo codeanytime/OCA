@@ -1,0 +1,19 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îùŒ şÿÿÿÿ
+U
+java:S1854
+":Remove this useless assignment to local variable "result".(»°¼«øÿÿÿÿ
+E
+java:S2201"*The return value of "concat" must be used.(±ˆæüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šî†şÿÿÿÿ
+F
+java:S1481
+"+Remove this unused "result" local variable.(»°¼«øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É®Òƒûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ò­Å
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·úè
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™åôëúÿÿÿÿ8À…ã–0
